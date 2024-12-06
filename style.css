@@ -37,6 +37,12 @@ header nav a {
     display: block;
 }
 
+header a:hover {
+    text-decoration: underline;
+    font-size: 18px;
+    padding: 39px 10px;
+}
+
 footer{
     background-color: #3084F2;
 }
@@ -95,3 +101,4 @@ footer ul{
 
 .footer li a:hover{
 text-decoration: underline;
+
