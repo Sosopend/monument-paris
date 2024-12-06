@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header .menu-container {
+    background-color: #3084f2;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+}
+
+header .menu-container div {
+    max-width : 1200px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 16px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+}
+
+header nav a {
+    text-decoration: none;
+    color: white;
+    padding: 41px 12px;
+    display: block;
+}
