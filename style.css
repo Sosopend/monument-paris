@@ -32,3 +32,9 @@ header nav a {
     padding: 41px 12px;
     display: block;
 }
+
+header a:hover {
+    text-decoration: underline;
+    font-size: 18px;
+    padding: 39px 10px;
+}
